@@ -78,10 +78,10 @@ public class MainActivity extends AppCompatActivity {
 ![alt text](<Output Images/Coding_Part.png>)
 
 #### App
-<img src="ImplicitIntent-MAD/Output Images/App.jpg" height=400>
+<img src="Output Images/App.jpg" height=400>
 
 #### GMail
-<img src="ImplicitIntent-MAD/Output Images/Gmail.jpg" height=400>
+<img src="Output Images/Gmail.jpg" height=400>
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the gmail page using Android Studio is developed and executed successfully.
